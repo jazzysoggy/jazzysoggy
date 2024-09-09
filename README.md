@@ -1,4 +1,4 @@
-Hello, I'm a rookie coder who is familiar with Lua and C++, and has dabbled in Python as well. Here is the stats below.
+Hello, I'm a programmer studying Computer Science at the University of Michigan. I'm familiar with Lua, Python and C++. Check out the stats below.
 
 <a href="https://github.com/jazzysoggy/jazzysoggy-readme-stats">
   <img align="center" src="https://jazzysoggy-readme-stats-fq4f.vercel.app/api/?username=jazzysoggy&show_icons=true&theme=transparent&exclude_repo=jazzysoggy-readme-stats,ForkedRCMGameEngine" />
